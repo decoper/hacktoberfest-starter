@@ -1,3 +1,3 @@
 # Some Note
 
-Write something below...
+Praktek pull dengan github
